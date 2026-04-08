@@ -1,5 +1,5 @@
-# DSC
-#The Are the DSC Club - Competitive Programming Questions
+# DSC Club
+#These Are the DSC Club - Competitive Programming Questions
 
 
 #include <bits/stdc++.h>
